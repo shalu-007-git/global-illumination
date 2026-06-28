@@ -1,4 +1,4 @@
-# Global Illumination – Assignment 3: Importance Sampling
+# Global Illumination – Enviornment map / Importance Sampling
 
 Implementation of **Importance Sampling** for environment map lighting and discrete probability distributions as part of the Global Illumination course.
 
@@ -22,7 +22,7 @@ The following tasks were completed:
 
 ## Features
 
-### Assignment 1 – 1D Distribution Sampling
+### 1 – 1D Distribution Sampling
 
 Implemented:
 
@@ -34,7 +34,7 @@ Implemented:
 
 ---
 
-### Assignment 2 – 2D Distribution Sampling
+###  2 – 2D Distribution Sampling
 
 Implemented:
 
@@ -45,7 +45,7 @@ Implemented:
 
 ---
 
-### Assignment 3 – Environment Map Correction
+###  3 – Environment Map Correction
 
 Implemented spherical distortion correction for environment maps by multiplying each row with
 
