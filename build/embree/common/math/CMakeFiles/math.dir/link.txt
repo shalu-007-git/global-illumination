@@ -1,0 +1,2 @@
+/usr/bin/ccache /usr/bin/ar qc ../../libmath.a CMakeFiles/math.dir/constants.cpp.o
+/usr/bin/ccache /usr/bin/ranlib ../../libmath.a

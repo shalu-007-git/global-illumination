@@ -1,0 +1,2 @@
+/usr/bin/ccache /usr/bin/ar qc ../../liblexers.a CMakeFiles/lexers.dir/stringstream.cpp.o CMakeFiles/lexers.dir/tokenstream.cpp.o
+/usr/bin/ccache /usr/bin/ranlib ../../liblexers.a
